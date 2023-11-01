@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "img": "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?w=996&t=st=1698858533~exp=1698859133~hmac=b3dd7558376ecc74066c886bda2c7f01080e923b079d551ff8616a23331e0ae9",
+        "name": "Web Development Fundamentals",
+        "description": "Learn the basics of web development, HTML, CSS, and JavaScript.",
+        "hour": 5,
+        "price": 199.99
+    },
+    {
+        "id": 2,
+        "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1698861846~exp=1698862446~hmac=9c899fd018a008132fbe7d28112a0e3e9b9aae142cbf2e27f4ca372a63530c95",
+        "name": "Introduction to Python Programming",
+        "description": "Start your journey into Python programming with this beginner-friendly course.",
+        "hour": 7,
+        "price": 149.99
+    },
+    {
+        "id": 3,
+        "img": "https://img.freepik.com/free-photo/data-center-with-server-racks-corridor-room-3d-render-digital-data-cloud-technology_482257-27722.jpg?w=996&t=st=1698861895~exp=1698862495~hmac=4a4f1891d9765e5ecbcdf4ec42c4c7c41401d9d780ff0ad746b3027304830def",
+        "name": "Database Design and SQL",
+        "description": "Master the art of database design and SQL querying.",
+        "hour": 12,
+        "price": 249.99
+    },
+    {
+        "id": 4,
+        "img": "https://img.freepik.com/free-vector/character-illustration-people-with-cyber-crime-icons_53876-43076.jpg?w=900&t=st=1698861744~exp=1698862344~hmac=e0087272120aedd926514510faf5219b1af5e8a6dc998c8d42d387f49af6a42b",
+        "name": "Cybersecurity Essentials",
+        "description": "Protect your organization from cyber threats with the basics of cybersecurity.",
+        "hour": 10,
+        "price": 199.99
+    },
+    {
+        "id": 5,
+        "img": "https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041860.jpg?w=996&t=st=1698858694~exp=1698859294~hmac=eaf13e1460ac72417ee5952b7b5489c605189664fdcbb2af5927bcfdc9001c70",
+        "name": "Data Science with Python",
+        "description": "Explore data analysis and visualization using Python.",
+        "hour": 10,
+        "price": 299.99
+    },
+    {
+        "id": 6,
+        "img": "https://img.freepik.com/free-photo/robot-hand-finger-ai-background-technology-graphics_53876-129793.jpg?w=996&t=st=1698861955~exp=1698862555~hmac=62af57c6879e227d7439950446aba37f7d7ed0282fbb2a5a3a538bcc7930e152",
+        "name": "Machine Learning Basics",
+        "description": "Get started with machine learning and its applications.",
+        "hour": 5,
+        "price": 249.99
+    },
+    {
+        "id": 7,
+        "img": "https://img.freepik.com/free-photo/young-man-glassess-is-working-his-workplace-office-he-wears-blue-shirt-he-is-writing-notebook-smiling-camera_197531-538.jpg?w=996&t=st=1698862091~exp=1698862691~hmac=96ddfd660b77146687e7fece1b169a361f150e522875646428ec6f54dff6520e",
+        "name": "Full Stack Web Development",
+        "description": "Become a full-stack developer with knowledge of both front-end and back-end technologies.",
+        "hour": 10,
+        "price": 349.99
+    },
+    {
+        "id": 8,
+        "img": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=996&t=st=1698858847~exp=1698859447~hmac=5e9885b357154beca6bf225a7ec2a159591a0bbbb5a411df9c454a2dc593ba61",
+        "name": "Java Programming Masterclass",
+        "description": "Become a Java expert with this comprehensive masterclass.",
+        "hour": 3,
+        "price": 299.99
+    },
+    {
+        "id": 9,
+        "img": "https://img.freepik.com/free-photo/ai-cloud-concept-with-robot-arm_23-2149739748.jpg?w=900&t=st=1698862003~exp=1698862603~hmac=38ada66554a481d0e9e051c8cb1a8de1b3ce1cfe29ffdeb1551df6f287bfd97b",
+        "name": "Artificial Intelligence Fundamentals",
+        "description": "Learn the basics of AI and its various applications.",
+        "hour": 5,
+        "price": 249.99
+    },
+    {
+        "id": 10,
+        "img": "https://img.freepik.com/free-photo/woman-scrolling-laptop_53876-167050.jpg?w=740&t=st=1698858916~exp=1698859516~hmac=36a87a54074f60f918d4aaa311f49975a24dd1fca10adaf8fc10f765bdefbabd",
+        "name": "Cloud Computing Essentials",
+        "description": "Explore the world of cloud computing and its benefits.",
+        "hour": 5,
+        "price": 199.99
+    },
+    {
+        "id": 11,
+        "img": "https://img.freepik.com/free-photo/marketing-creative-collage-with-phone_23-2149379900.jpg?w=826&t=st=1698858947~exp=1698859547~hmac=c903f728bb6bfb97583b5bb01cf473d71ea0a642b8027f536f54f71607285228",
+        "name": "Mobile App Development with React Native",
+        "description": "Create mobile apps using React Native for both iOS and Android.",
+        "hour": 5,
+        "price": 249.99
+    },
+    {
+        "id": 12,
+        "img": "https://img.freepik.com/free-photo/portrait-hacker_23-2148165934.jpg?w=996&t=st=1698858980~exp=1698859580~hmac=452f5ccff84a5246e38448f867fd58a978566d509ff1a5a47499bb0cc553d403",
+        "name": "Ethical Hacking and Penetration Testing",
+        "description": "Learn how to identify and fix security vulnerabilities as an ethical hacker.",
+        "hour": 10,
+        "price": 299.99
+    }
+]
